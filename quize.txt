@@ -1,0 +1,10 @@
+How many terms are in the G.P. 3, 6, 12, 24, ......., 384 ? 8 ;9 ;10 ;11 ,8,9,10,11
+How many elements are there in the periodic table? 117;118;119;120, 118,117,119,120
+Which expression is equivalent to i**233?  i ;-i; 1 ;1;-1,i ,-i,1,-1
+How many episodes of Scrubs were there? Closest wins the point:182;181;183;,181,180, 182,183
+What year did Elizabeth II become Queen;1942;1952;1963;1970,1952,1942,1963,1970
+In what year did Tony Blair become British Prime Minister;1997;1998;1996;1997,1999,1998,1996
+What temperature centigrade does water boil at degree; 90;100;110;150,100,110,150,90
+How many notes are there in a musical scale;5;6;7;8,7,6,8,5
+Find the next number in the series 3; 4; 5; 5; 12; 13; 7; 24; 25; 8; 15; ...,17,26,16,18
+The largest 4 digit number exactly divisible by 88 is ?  9944 ; 9768 ;8888;9944,9988,9768,8888,9988
